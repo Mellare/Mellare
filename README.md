@@ -5,5 +5,5 @@
 - 📫 How to reach me: pedro.mellare@gmail.com
 - ⚡ Fun fact: I love beach...
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= 100px width= 100px/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height= 100px width= 100px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= 100px width= 100px align= center/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height= 100px width= 100px align= center/>
