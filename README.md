@@ -1,9 +1,8 @@
 ### Hello Everyone! 👋
 
-- 🔭 Looking for internship...
-- 🌱 I’m currently learning Front-End Development and C#...
-- 📫 How to reach me: pedro.mellare@gmail.com
-- ⚡ Fun fact: I love beach :)
+- 🔭 Buscando novos horizontes na área de tecnologia!
+- 🌱 Atualmente estou aprendendo Python e fazendo um estágio em Help Desk
+- 📫 E-mail: pedro.mellare@gmail.com
 
 <div>
 
@@ -13,9 +12,9 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= 58px width= 58px/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height= 60px width= 60px />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height= 60px width= 60px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height= 60px width= 60px/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height= 60px width= 60px/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height= 60px width= 60px/>
 
