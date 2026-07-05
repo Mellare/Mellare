@@ -21,8 +21,7 @@ Analista de Suporte de TI / Desenvolvedor focado em Full-Stack
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mellare&show_icons=true&theme=radial)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mellare&layout=compact&theme=radial)
+![Estatísticas do GitHub](https://github-readme-stats-sigma-five.vercel.app/api?username=Mellare&show_icons=true&theme=radial)
 
 ---
 
