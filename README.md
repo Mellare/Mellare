@@ -1,21 +1,34 @@
-### Hello Everyone! 👋
+# Olá, me chamo Pedro Luís Milaré👋
+Analista de Suporte de TI / Desenvolvedor focado em Full-Stack
 
-- 🔭 Buscando novos horizontes na área de tecnologia!
-- 🌱 Atualmente estou aprendendo Python e fazendo um estágio em Help Desk
-- 📫 E-mail: pedro.mellare@gmail.com
+---
 
-<div>
+- 🔭 Atualmente trabalho como Analista de Suporte de TI em um colégio.
+- 🌱 Aprimorando minhas habilidades como desenvolvedor Python Full-Stack.
+- 🚀 Gosto de estudar e valorizar o aprendizado através de projetos pessoais, inclusive dêem uma olhada no meu último projeto, o Andromeda Project.
+- 🎯 Focado em evoluir constantemente e aprender com as mãos na massa!
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height= 65px width= 65px/>
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height= 65px width= 65px/>
+## Minhas Tecnologias 🛠️
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height= 58px width= 58px/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height= 60px width= 60px/>
+---
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height= 60px width= 60px/>
+## 📊 Estatísticas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height= 50px width= 50px/>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mellare&show_icons=true&theme=radial)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mellare&layout=compact&theme=radial)
 
-</div>
+---
+
+## 📬 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-luis-milare/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.mellare@gmail.com)
+
+---
