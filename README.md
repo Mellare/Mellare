@@ -4,8 +4,8 @@ Analista de Suporte de TI / Desenvolvedor focado em Full-Stack
 ---
 
 - 🔭 Atualmente trabalho como Analista de Suporte de TI em um colégio.
-- 🌱 Aprimorando minhas habilidades como desenvolvedor Python Full-Stack.
-- 🚀 Gosto de estudar e valorizar o aprendizado através de projetos pessoais, inclusive dêem uma olhada no meu último projeto, o Andromeda Project.
+- 🌱 Aprimorando meus conhecimentos como desenvolvedor Python Full-Stack.
+- 🚀 Gosto de estudar e valorizar o aprendizado através de projetos pessoais.
 - 🎯 Focado em evoluir constantemente e aprender com as mãos na massa!
 
 ---
