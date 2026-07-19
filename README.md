@@ -4,7 +4,7 @@ Analista de Suporte de TI / Desenvolvedor focado em Full-Stack
 ---
 
 - 🔭 Atualmente trabalho como Analista de Suporte de TI em um colégio.
-- 🌱 Aprimorando meus conhecimentos como desenvolvedor Python Full-Stack.
+- 🌱 Aprimorando meus conhecimentos como desenvolvedor Python Full-Stack e atualmente estou estudando React.js e PostgreSQL.
 - 🚀 Gosto de estudar e valorizar o aprendizado através de projetos pessoais.
 - 🎯 Focado em evoluir constantemente e aprender com as mãos na massa!
 
